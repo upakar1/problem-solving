@@ -1,0 +1,1 @@
+Creating a list with mixed data types (int, float, string) and displaying it.
