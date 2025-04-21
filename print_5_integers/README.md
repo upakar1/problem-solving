@@ -1,0 +1,1 @@
+Creating a list of 5 integers and printing each element.
