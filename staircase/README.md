@@ -1,0 +1,1 @@
+staircase shaped is formed
